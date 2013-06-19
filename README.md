@@ -8,7 +8,7 @@ Requirements
 ## Ohai and Chef:
 
 ## Cookbooks:
-
+tschikarski-webserver
 
 ## Platforms:
 
@@ -36,9 +36,6 @@ Recipes
 default
 -------
 
-logrotate
----------
-
 Definitions
 ===========
 
@@ -49,4 +46,5 @@ Usage
 
 License and Authors
 ===================
-
+GPL?
+Thomas Schikarski, copied from Robert Lemke
